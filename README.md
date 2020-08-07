@@ -1,6 +1,6 @@
 ## ***Hi! 👋***
 
-<img src="banner.png">
+<img src="https://github.com/adsehgal/adsehgal/blob/master/banner.png">
 
 I'm Aditya (Adi) and i'm recent graduate from UCSC with a Bachelors in Electrical Engineering.</br>
 I love working with digital logic and designing PCBs.</br>
@@ -19,10 +19,6 @@ Verilog / CHISEL / Embedded C / C++ / Python / Java / MIPS Assembly
 <a href="https://www.linkedin.com/in/adsehgal/" target="_blank"><img src="https://github.com/adsehgal/adsehgal/blob/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/adsehgal" target="_blank"><img src="https://github.com/adsehgal/adsehgal/blob/master/git.png" alt="GitHub" width="30"></a>
 
-
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adsehgal&show_icons=true&theme=radical)
 
 
 
