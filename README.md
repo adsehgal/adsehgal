@@ -15,8 +15,8 @@ Verilog / CHISEL / Embedded C / C++ / Python / Java / MIPS Assembly
 
 ####
 
-<a href="https://www.instagram.com/ayeeditya/" target="_blank"><img src="ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/adsehgal/" target="_blank"><img src="in.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.instagram.com/ayeeditya/" target="_blank"><img src="https://github.com/adsehgal/adsehgal/blob/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/adsehgal/" target="_blank"><img src="https://github.com/adsehgal/adsehgal/blob/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/adsehgal" target="_blank"><img src="https://github.com/adsehgal/adsehgal/blob/master/git.png" alt="GitHub" width="30"></a>
 
 
