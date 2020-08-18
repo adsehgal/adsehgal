@@ -2,7 +2,7 @@
 
 <img src="https://github.com/adsehgal/adsehgal/blob/master/banner.png">
 
-I'm Aditya (Adi) and i'm recent graduate from UCSC with a Bachelors in Electrical Engineering.</br>
+I'm Aditya (Adi) and I'm a soon to be graduate from UCSC with a Bachelors in Electrical Engineering.</br>
 I love working with digital logic and designing PCBs.</br>
 I always try to find new things to do, currently I am learning Python, Flutter and Altium Designer!
 
