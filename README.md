@@ -8,7 +8,7 @@ I always try to find new things to do, currently I am learning Python, Flutter a
 
 ### ***Tools and Languages***
 
-> Eagle CAD / KiCad / Cadence Allegro / Vivado / MPLab X / Magic VLSI / Fusion 360 </br> 
+> Eagle CAD / KiCad / Cadence / Vivado / MPLab X / Magic VLSI / Fusion 360 </br> 
 Verilog / CHISEL / Embedded C / C++ / Python / Java / MIPS Assembly 
 
 
