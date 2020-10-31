@@ -4,7 +4,7 @@
 
 I'm Aditya (Adi) and I'm a soon to be graduate from UCSC with a Bachelors in Electrical Engineering.</br>
 I love working with digital logic and designing PCBs.</br>
-I always try to find new things to do, currently I am learning Python, Flutter and Altium Designer!
+I always try to find new things to do, currently I am learning Python and Altium Designer!
 
 ### ***Tools and Languages***
 
