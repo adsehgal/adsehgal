@@ -8,8 +8,8 @@ I always try to find new things to do, currently I am learning Python and Altium
 
 ### ***Tools and Languages***
 
-> Eagle / KiCad / Altium / Cadence / Vivado / PSoC Creator / STM32CubeIDE / MPLAB X / LTSpice</br> 
-Verilog / CHISEL / Embedded C/C++ / Python / Java / MIPS Assembly / Markdown
+> Eagle // KiCad // Altium // Cadence // Vivado // PSoC Creator // STM32CubeIDE // MPLAB X // LTSpice // TinaTI</br> 
+Verilog // CHISEL // Embedded C/C++ // Python // Java // MIPS Assembly // Markdown
 
 
 
