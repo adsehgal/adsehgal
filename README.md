@@ -2,13 +2,13 @@
 
 <img src="https://github.com/adsehgal/adsehgal/blob/master/banner.png">
 
-I'm Aditya (Adi) and I'm a soon to be graduate from UCSC with a Bachelors in Electrical Engineering.</br>
+I'm Aditya (Adi) and I'm a recent UCSC graduate with a Bachelors in Electrical Engineering.</br>
 I love working with digital logic and designing PCBs.</br>
-I always try to find new things to do, currently I am learning Python and Altium Designer!
+I always try to find new things to do, currently I am learning working on a digitally controlled power supply!
 
 ### ***Tools and Languages***
 
-> Eagle // KiCad // Altium // Cadence // Vivado // PSoC Creator // STM32CubeIDE // MPLAB X // LTSpice // TinaTI</br> 
+> Altium // Eagle // KiCad // Cadence // Vivado // PSoC Creator // STM32CubeIDE // MPLAB X // LTSpice // TinaTI</br> 
 Verilog // CHISEL // Embedded C/C++ // Python // Java // MIPS Assembly // Markdown
 
 
