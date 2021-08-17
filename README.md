@@ -2,9 +2,9 @@
 
 <img src="https://github.com/adsehgal/adsehgal/blob/master/banner.png">
 
-I'm Aditya (Adi) and I'm a recent UCSC graduate with a Bachelors in Electrical Engineering.</br>
+I'm Aditya (Adi) an Electrical Engineer with a focus in digital and embedded systems design as well as embedded design for power electronics!</br>
 I love working with digital logic and designing PCBs.</br>
-I always try to find new things to do, currently I am learning working on a digitally controlled power supply!
+I always try to find new things to do, currently I am learning about all the peripherals I can learn about with a variety of STM32 MCUs!
 
 ### ***Tools and Languages***
 
