@@ -2,13 +2,13 @@
 
 <img src="https://github.com/adsehgal/adsehgal/blob/master/banner.png">
 
-I'm Aditya (Adi) an Electrical Engineer with a focus in digital and embedded systems design as well as embedded design for power electronics!</br>
+I'm Aditya (Adi) an Electrical Engineer with a deep interest in digital and embedded systems design!</br>
 I love working with digital logic and designing PCBs.</br>
-I always try to find new things to do, currently I am learning about all the peripherals I can learn about with a variety of STM32 MCUs!
+I always try to find new things to do, currently I am learning about all the peripherals I can learn about with a variety of STM32 MCUs as well as create my own standard part libraries to use with KiCAD!
 
 ### ***Tools and Languages***
 
-> Altium // Eagle // KiCad // Cadence // Vivado // PSoC Creator // STM32CubeIDE // MPLAB X // LTSpice // TinaTI</br> 
+> Altium // Eagle // KiCAD // Cadence // Vivado // PSoC Creator // STM32CubeIDE // MPLAB X // LTSpice // TinaTI</br> 
 Verilog // CHISEL // Embedded C/C++ // Python // Java // MIPS Assembly // Markdown
 
 
